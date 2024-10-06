@@ -1,0 +1,43 @@
+.env
+
+node_modules/
+
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/dist/
+/build/
+/out/
+
+.cache/
+coverage/
+.vscode/
+.idea/
+.DS_Store   # For macOS users
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+package-lock.json
+yarn.lock
+
+/.vscode/
+/.idea/
+/*.iml
+
+/coverage/
+/*.test.js.snap
+
+*.swp   # Swap files for vim
+*.swo
+*~
