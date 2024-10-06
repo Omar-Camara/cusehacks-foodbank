@@ -5,3 +5,4 @@ Flask-Bcrypt
 mysqlclient
 Flask-login
 mysql-connector-python
+dotenv 
